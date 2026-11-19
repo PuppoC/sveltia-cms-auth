@@ -3,3 +3,4 @@ main = "src/index.js"
 compatibility_date = "2026-11-11"
 workers_dev = false
 preview_urls = false
+keep_vars = true
